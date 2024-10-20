@@ -1,4 +1,4 @@
-## Heyoo everyone, welcome to my Git Guide
+## Welcom to git Jusking
 
--Yo, King here
+- This is coming from dev-jusking
 - I'm adding this from feature-branch
